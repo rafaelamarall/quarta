@@ -3,5 +3,14 @@ if j>10:
     print('eita loco')
 
 while j<80:
-    j +=5
+    j += 5
     print('vai aumentando')
+
+a = 5
+b = 3
+c = a + b
+d = a -b
+print(a)
+print(b)
+print(c)
+print(d)
