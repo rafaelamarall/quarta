@@ -1,3 +1,7 @@
 j = float(input('digita: '))
 if j>10:
     print('eita loco')
+
+while j<80:
+    j += 5
+    print('vai aumentando')
