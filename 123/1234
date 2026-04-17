@@ -1,0 +1,3 @@
+j = float(input('digita: '))
+if j>10:
+    print('eita loco')
